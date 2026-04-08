@@ -1,3 +1,11 @@
+---
+title: AI Powered Legal Document Analyzer
+emoji: ⚖️
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 8501
+---
 # ⚖️ AI Powered Legal Document Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
