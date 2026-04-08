@@ -237,7 +237,7 @@ Legal clauses often span paragraph boundaries. An overlap of 200 characters ensu
 
 ## 🚧 Future Improvements
 
-- [ ] Deploy on Hugging Face Spaces
+- [✅] Deploy on Hugging Face Spaces
 - [ ] Add support for DOCX and TXT files
 - [ ] Add contract comparison (upload 2 documents and compare)
 - [ ] Add clause highlighting in original document
