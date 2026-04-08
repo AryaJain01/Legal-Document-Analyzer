@@ -3,8 +3,10 @@ title: AI Powered Legal Document Analyzer
 emoji: ⚖️
 colorFrom: blue
 colorTo: purple
-sdk: docker
-app_port: 8501
+sdk: streamlit
+sdk_version: "1.41.0"
+app_file: app.py
+pinned: false
 ---
 # ⚖️ AI Powered Legal Document Analyzer
 
@@ -31,8 +33,7 @@ Legal contracts are complex, lengthy, and difficult to understand for non-lawyer
 
 ## 🚀 Live Demo
 
-> 🔗 Coming soon on Hugging Face Spaces
-
+> 🔗 [Live Demo](https://huggingface.co/spaces/AryaJain01/Legal-Document-Analyzer)
 ---
 
 ## 📸 Project Preview
