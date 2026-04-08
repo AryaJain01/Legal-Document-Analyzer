@@ -1,0 +1,42 @@
+clause_short,answer
+Document Name that should be reviewed by a lawyer.,1.0
+Parties that should be reviewed by a lawyer.,0.9980392156862745
+Agreement Date that should be reviewed by a lawyer.,0.9215686274509803
+Governing Law that should be reviewed by a lawyer.,0.8568627450980392
+Expiration Date that should be reviewed by a lawyer.,0.8098039215686275
+Effective Date that should be reviewed by a lawyer.,0.7647058823529411
+Anti-Assignment that should be reviewed by a lawyer.,0.7333333333333333
+Cap On Liability that should be reviewed by a lawyer.,0.5392156862745098
+License Grant that should be reviewed by a lawyer.,0.5
+Audit Rights that should be reviewed by a lawyer.,0.4196078431372549
+Termination For Convenience that should be reviewed by a lawyer.,0.3588235294117647
+Post-Termination Services that should be reviewed by a lawyer.,0.3568627450980392
+Exclusivity that should be reviewed by a lawyer.,0.35294117647058826
+Renewal Term that should be reviewed by a lawyer.,0.34509803921568627
+Insurance that should be reviewed by a lawyer.,0.3254901960784314
+Revenue/Profit Sharing that should be reviewed by a lawyer.,0.3254901960784314
+Minimum Commitment that should be reviewed by a lawyer.,0.3235294117647059
+Non-Transferable License that should be reviewed by a lawyer.,0.27058823529411763
+Ip Ownership Assignment that should be reviewed by a lawyer.,0.24313725490196078
+Change Of Control that should be reviewed by a lawyer.,0.2372549019607843
+Non-Compete that should be reviewed by a lawyer.,0.23333333333333334
+Uncapped Liability that should be reviewed by a lawyer.,0.21764705882352942
+Notice Period To Terminate Renewal that should be reviewed by a lawyer.,0.21764705882352942
+Covenant Not To Sue that should be reviewed by a lawyer.,0.19607843137254902
+Rofr/Rofo/Rofn that should be reviewed by a lawyer.,0.16666666666666666
+Volume Restriction that should be reviewed by a lawyer.,0.1607843137254902
+Competitive Restriction Exception that should be reviewed by a lawyer.,0.14901960784313725
+Warranty Duration that should be reviewed by a lawyer.,0.14705882352941177
+Irrevocable Or Perpetual License that should be reviewed by a lawyer.,0.13725490196078433
+Liquidated Damages that should be reviewed by a lawyer.,0.11960784313725491
+Affiliate License-Licensee that should be reviewed by a lawyer.,0.11568627450980393
+No-Solicit Of Employees that should be reviewed by a lawyer.,0.11568627450980393
+Joint Ip Ownership that should be reviewed by a lawyer.,0.09019607843137255
+Non-Disparagement that should be reviewed by a lawyer.,0.07450980392156863
+No-Solicit Of Customers that should be reviewed by a lawyer.,0.06666666666666667
+Third Party Beneficiary that should be reviewed by a lawyer.,0.06274509803921569
+Most Favored Nation that should be reviewed by a lawyer.,0.054901960784313725
+Affiliate License-Licensor that should be reviewed by a lawyer.,0.045098039215686274
+Unlimited/All-You-Can-Eat-License that should be reviewed by a lawyer.,0.03333333333333333
+Price Restrictions that should be reviewed by a lawyer.,0.029411764705882353
+Source Code Escrow that should be reviewed by a lawyer.,0.025490196078431372

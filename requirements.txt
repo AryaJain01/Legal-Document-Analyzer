@@ -6,3 +6,9 @@ pypdf
 streamlit
 python-dotenv
 sentence-transformers
+datasets 
+pandas 
+matplotlib
+ seaborn 
+ jupyter
+ ## now here we fetch back the text from faiss vector so that we can convert text into numbers using the sentence_transformers 
